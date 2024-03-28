@@ -1,0 +1,16 @@
+body{
+    text-align:justify;
+    background-color:rgb(243, 245, 245);
+}
+.centralização{
+    text-align: center;
+}
+p{color: rgb(16, 16, 16);
+font-size: medium ;
+font-style: initial;}
+img{
+    width: 30%;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 0 10px black;
+}
